@@ -1,7 +1,7 @@
 import tkinter
 
 window = tkinter.Tk()
-window
+window.title("My First GUI Program")
 
 
 
